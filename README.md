@@ -1,2 +1,2 @@
 # dwm-debian
-This sets up my dwm config on a freshly (or not) installed debian 
+# Script that sets up dwm on debian, similar to my dwm-setup script but this one is for debian.
